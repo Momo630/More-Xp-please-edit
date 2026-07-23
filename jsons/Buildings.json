@@ -5,5 +5,5 @@
     "uniques": [ "Automatically built in all cities where it is buildable",
 		    "Limited to [1] per Civilization",
 		    "Unbuildable <for [AI player]>",
-        "New [Military] units start with [4000] Experience [in all cities]", "[+10000]% XP gained from combat <for [Military] units>"]}
+        "New [Military] units start with [4000] Experience [in all cities]", "[+40000]% XP gained from combat <for [Military] units>"]}
 ]
