@@ -6,10 +6,9 @@
       "Automatically built in all cities where it is buildable",
       "Limited to [1] per Civilization",
       "Unbuildable <for [AI player] Civilizations>",
-      "New [Military] units start with [4000] XP [in all cities]",
+      "New [Military] units start with [40000] XP [in all cities]",
       "[+40000]% XP gained from combat <for [Military] units>",
-      "[Great General] is earned [-99]% faster",
-      "[Great Admiral] is earned [-99]% faster <when [Civ V - Gods & Kings] mod is enabled>"
+      "[Great General] is earned [-99]% faster"
     ]
   }
 ]
