@@ -1,6 +1,6 @@
-If you make a unit, you get 400XP. And, when a unit fights, it gets 300% more XP than usual. This mode does not apply to AI players.
+If you make a unit, you get 40000XP. And, when a unit fights, it gets 40000% more XP than usual. Great Generals and Great Admirals are earned 99% slower. This mode does not apply to AI players.
 
-당신이 유닛을 만들면 400XP를 받습니다. 그리고, 유닛이 전투를 할 때 그 유닛은 평소보다 XP를 300% 더 받습니다. 이 모드는 AI 플레이어에게 적용되지 않습니다.
+당신이 유닛을 만들면 40000XP를 받습니다. 그리고, 유닛이 전투를 할 때 그 유닛은 평소보다 XP를 40000% 더 받습니다. 위대한 장군과 제독의 획득 속도가 99% 느려집니다. 이 모드는 AI 플레이어에게 적용되지 않습니다.
 
 * This mode is incompatible with "barbarian xp farm". I'm not sure what's going on between that mod and this mod.
 
